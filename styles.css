@@ -1,0 +1,47 @@
+.bg {
+  background-color: #d5e1ef;
+  padding: 1rem;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  margin: 14px;
+  padding: 18px;
+  width: 320px;
+  filter: drop-shadow(0 0.3rem 1rem #97979766);
+  border-radius: 24px;
+}
+
+.qr {
+  border-radius: 18px;
+}
+
+.heading-text {
+  font-family: "Outfit";
+  padding-left: 24px;
+  padding-right: 24px;
+  font-weight: 700;
+  color: #1f314f;
+  font-size: 22px;
+  text-align: center;
+  line-height: 1.8rem;
+  margin-bottom: 0px;
+}
+
+.body-text {
+  font-family: "Outfit";
+  padding-left: 32px;
+  padding-right: 32px;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1.4rem;
+  color: #7d889e;
+}
